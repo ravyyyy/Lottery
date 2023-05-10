@@ -12,7 +12,7 @@ html {
 
 .App {
   text-align: center;
-  margin-top: 4vh;
+  margin-top: 1vh;
 }
 
 .head-text {
@@ -43,6 +43,7 @@ html {
   align-items: center;
   justify-content: space-evenly;
   width: 60vw;
+  padding-bottom: 17px;
 }
 
 .lottery-container {
@@ -80,13 +81,14 @@ html {
 }
 
 .icon {
-  width: 10vh;
+  width: 15vh;
   -webkit-user-drag: none;
   user-select: none;
   -moz-user-select: none;
   -webkit-user-select: none;
   -ms-user-select: none;
   margin-bottom: 25px;
+  margin-top: 5px;
 }
 
 .btn {
